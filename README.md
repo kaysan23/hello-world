@@ -6,3 +6,4 @@ Here is a little bit about me.
     how GitHub works.
   - It is a way to work on code with a team at the same
     time.
+This is the end of the description...
